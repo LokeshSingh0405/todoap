@@ -51,7 +51,7 @@ const Main: FC = () => {
                 <div className="select">
                     <select name="todos">
                         <option value="all">All</option>
-                        <option value="completed">Completed</option>
+                        <option value="completed">Completedd</option>
                         <option value="incompleted">Incompleted</option>
                     </select>
                 </div>
